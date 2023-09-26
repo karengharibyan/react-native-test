@@ -1,0 +1,5 @@
+import {API_URL, STORAGE_ENCYPTION_KEY} from '@env';
+export default {
+  API_URL: API_URL,
+  STORAGE_ENCYPTION_KEY: STORAGE_ENCYPTION_KEY,
+};

@@ -1,0 +1,4 @@
+diff --git a/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.m b/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.mm
+similarity index 100%
+rename from node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.m
+rename to node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.mm
